@@ -1,4 +1,4 @@
-Alternate Sort
+#Alternate Sort
 
 Given an array of integers, sort the elements in an alternate manner. The first element goes first, the last element goes second, the second element goes next, the second-to-the-last element goes fourth, and so on. If the resulting array is in a STRICTLY increasing order, return TRUE, otherwise, return FALSE.
 

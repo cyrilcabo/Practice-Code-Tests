@@ -1,4 +1,4 @@
-Are Similar
+#Are Similar
 
 Given an two arrays of integers, check if they are similar. You are allowed to swap at most 2 elements in one of the two arrays to make them similar. Return TRUE if arrays are similar, otherwise, return FALSE.
 

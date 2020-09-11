@@ -1,4 +1,4 @@
-Almost Increasing Sequence
+#Almost Increasing Sequence
 
 Given an array of integers, determine if the elements are sorted in an increasing order. You are allowed to remove at most 1 element from the array. Output is either TRUE or FALSE.
 
