@@ -1,4 +1,4 @@
-#Gravity
+# Gravity
 
 CELL = 'F', EMPTY_SPACE = '.', OBSTACLE = '#'
 
@@ -6,6 +6,7 @@ Given a 2D array, simulate gravity by letting CELLS fall through EMPTY_SPACE, an
 
 Example:
 
+```
 const sampleMatrix = [
   ['F', 'F', '.'],
   ['.', 'F', 'F'],
@@ -45,3 +46,4 @@ figureUnderGravity(sampleMatrix);
 
 	]
 */
+```

@@ -1,4 +1,4 @@
-#Avoid Obstacles
+# Avoid Obstacles
 
 You are given an array of integers representing coordinates of obstacles situated on a straight line.
 
