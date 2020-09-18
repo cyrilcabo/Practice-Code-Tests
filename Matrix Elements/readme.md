@@ -1,4 +1,4 @@
-#Matrix Elements Sum
+Matrix Elements Sum
 
 Given a rectangular matrix of integers, your task is to return the total sum of all elements that don't fall under a zero (0).
 

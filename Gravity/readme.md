@@ -1,4 +1,4 @@
-#Gravity
+Gravity
 
 CELL = 'F', EMPTY_SPACE = '.', OBSTACLE = '#'
 

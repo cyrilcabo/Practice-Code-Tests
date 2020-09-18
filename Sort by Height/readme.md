@@ -1,4 +1,4 @@
-#Sort By Height
+Sort By Height
 
 Given an array of integers, sort the elements, in ascending order, without changing the position of all -1's. 
 
